@@ -36,7 +36,7 @@ setup(
     ],
     eager_resources=["*"],
     include_package_data=True,
-    python_requires=">=3",
+    python_requires=">=3.4",
     description="robomimic: A Modular Framework for Robot Learning from Demonstration",
     author="Ajay Mandlekar, Danfei Xu, Josiah Wong, Soroush Nasiriany, Chen Wang",
     url="https://github.com/ARISE-Initiative/robomimic",
